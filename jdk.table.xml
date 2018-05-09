@@ -1,9 +1,30 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <version value="1.2.30" />
+      <homePath value="C:\Program Files\Android\Android Studio\plugins\Kotlin\kotlinc" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_152&quot;" />
+      <version value="java version &quot;1.8.0_152-release&quot;" />
       <homePath value="$APPLICATION_HOME_DIR$/jre" />
       <roots>
         <annotationsPath>
@@ -34,7 +55,7 @@
         </classPath>
         <javadocPath>
           <root type="composite">
-            <root url="https://docs.oracle.com/javase/8/docs/api/" type="simple" />
+            <root url="http://docs.oracle.com/javase/8/docs/api/" type="simple" />
           </root>
         </javadocPath>
         <sourcePath>
