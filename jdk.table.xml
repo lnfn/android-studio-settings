@@ -3,38 +3,38 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_152-release&quot;" />
+      <version value="java version &quot;1.8.0_152&quot;" />
       <homePath value="$APPLICATION_HOME_DIR$/jre" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/access-bridge-64.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunmscapi.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
           <root type="composite">
-            <root type="simple" url="http://docs.oracle.com/javase/8/docs/api/" />
+            <root url="https://docs.oracle.com/javase/8/docs/api/" type="simple" />
           </root>
         </javadocPath>
         <sourcePath>
@@ -50,13 +50,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/android.jar!/" />
-            <root type="simple" url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/data/res" />
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -64,7 +64,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27" type="simple" />
           </root>
         </sourcePath>
       </roots>
