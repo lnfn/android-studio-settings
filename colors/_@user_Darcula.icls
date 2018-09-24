@@ -1,17 +1,18 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-05-09T22:12:21</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2018-06-23T16:20:14</property>
+    <property name="modified">2018-09-24T22:19:11</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <attributes>
     <option name="KOTLIN_ANNOTATION">
       <value>
