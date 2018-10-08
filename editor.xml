@@ -13,5 +13,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
